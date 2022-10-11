@@ -1,10 +1,12 @@
-Projeto Meu ETL do NAPP Academy (Em produção)
+Projeto Meu ETL do NAPP Academy
 Gera um csv/gráfico com alguns dados sobre a covid
 (de acordo com a API)para todos os
 estados brasileiros (Casos confirmados, Mortes, Suspeitos,	Negativados)
 ou *todos os países (Casos confirmados, mortes)
 
 Como executar
+
+#Em um diretório de sua preferência:
 
 # Clonar o projeto
 - git clone https://github.com/Ataide-Araujo/MeuETL.git
